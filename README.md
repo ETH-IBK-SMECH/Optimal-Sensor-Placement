@@ -7,7 +7,9 @@ This toolkit offers a set of Optimal Sensor Placement Algorithms (Modal Kinetic 
 # CITATIONS
 We share the software we develop openly and freely but ask that you cite the related literature sources:
 Dertimanis, V. K. 2013. ‘On the Use of Dispersion Analysis for Model Assessment in Structural Identification’. Journal of Vibration and Control 19 (15): 2270–2284. https://doi.org/10.1177/1077546313501536.
-Leyder, C., Chatzi, E., Frangi, A., and Lombaert, G. 2016. ‘Comparison of Optimal Sensor Placement Algorithms via Implementation on an Innovative Timber Structure’. In International Symposium on Life-Cycle Civil Engineering (IALCCE 2016), 260–67. Delft, the Netherlands.
-Leyder, C., V. Dertimanis, A. Frangi, E. Chatzi, and G. Lombaert. 2018. ‘Optimal Sensor Placement Methods and Metrics – Comparison and Implementation on a Timber Frame Structure’. Structure and Infrastructure Engineering 14 (7): 997–1010. https://doi.org/10.1080/15732479.2018.1438483.
-Leyder, C., V. K. Ntertimanis, E. Chatzi, and A. Frangi. 2015. ‘Optimal Sensor Placement for the Modal Identification of an Innovative Timber Structure’. In 1st ECCOMAS Thematic Conference on Uncertainty Quantification in Computational Sciences and Engineering, UNCECOMP 2015, 467–76. Crete Island, Greece.
 
+Leyder, C., Chatzi, E., Frangi, A., and Lombaert, G. 2016. ‘Comparison of Optimal Sensor Placement Algorithms via Implementation on an Innovative Timber Structure’. In International Symposium on Life-Cycle Civil Engineering (IALCCE 2016), 260–67. Delft, the Netherlands.
+
+Leyder, C., V. Dertimanis, A. Frangi, E. Chatzi, and G. Lombaert. 2018. ‘Optimal Sensor Placement Methods and Metrics – Comparison and Implementation on a Timber Frame Structure’. Structure and Infrastructure Engineering 14 (7): 997–1010. https://doi.org/10.1080/15732479.2018.1438483.
+
+Leyder, C., V. K. Ntertimanis, E. Chatzi, and A. Frangi. 2015. ‘Optimal Sensor Placement for the Modal Identification of an Innovative Timber Structure’. In 1st ECCOMAS Thematic Conference on Uncertainty Quantification in Computational Sciences and Engineering, UNCECOMP 2015, 467–76. Crete Island, Greece.
